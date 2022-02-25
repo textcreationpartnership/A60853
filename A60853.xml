@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some remarks on the petition of the East-India Company to the House of Peers, against the bill sent up to their Lordships by the House of Commons, entituled, An act for granting to His Majesty two millions, &amp;c. and for settling the trade to India</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60853</idno>
+            <idno type="STC">Wing S4602A</idno>
+            <idno type="STC">ESTC R218734</idno>
+            <idno type="EEBO-CITATION">99830305</idno>
+            <idno type="PROQUEST">99830305</idno>
+            <idno type="VID">34755</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60853)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34755)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2021:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some remarks on the petition of the East-India Company to the House of Peers, against the bill sent up to their Lordships by the House of Commons, entituled, An act for granting to His Majesty two millions, &amp;c. and for settling the trade to India</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original at the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Legal status, laws, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:34755:1"/>
+            <head>Some <hi>REMARKS</hi> on the <hi>Petition</hi> of the <hi>Eaſt-India Company</hi> to the Houſe of Peers, againſt the <hi>BILL</hi> ſent up to their Lordſhips <hi>by the Houſe of Commons, Entituled,</hi> An Act for Granting to His Majeſty Two Millions, &amp;<hi>c.</hi> and for Settling the Trade to <hi>India.</hi>
+            </head>
+            <p n="1">
+               <hi>THEY Alledge,</hi> That they have a Right to the <hi>Eaſt-India</hi> Trade, by Charters from the Crown of a hundred Years Continu<g ref="char:EOLhyphen"/>ance.</p>
+            <p>The firſt Incorporation of the <hi>Preſent Company,</hi> was in the Year 1657, when they began with a Stock of about 370000<hi>l.</hi> Out of which (ſince the Reſtoration) they did Divide by the <hi>Monopoly</hi> of the Trade, by their War with the <hi>Mogull,</hi> and other <hi>indirect</hi> Profits, more than Three Millions Sterling.</p>
+            <p n="2">2. That in ſeveral of the ſaid Charters, the Crown covenants not to grant Liberty to any other Perſons to Trade to thoſe Parts.</p>
+            <p>This <hi>Covenant</hi> has been made good to them by the <hi>Ruin</hi> of ſeveral of their Fellow Subjects, who warranted by the Common Law of their Country (ſince <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>clared by Parliament) and by the Laws of Nations, have innocently carried Trade into thoſe remote parts of the World; where, as well as in <hi>Europe,</hi> they have (under Pretence of this <hi>Covenant</hi>) been moſt illegally treated by the <hi>perſent Company</hi> and their Agents.</p>
+            <p n="3">3. That all their former Powers and Priviledges have been confirmed to them for twenty one Years, by Charter from his preſent Majeſty, dated <hi>7 October, 1693.</hi> That by like Charter of Regulations from his Majeſty, they ſubmitted to receive Subſcriptions (as an addition to their Stock) for <hi>744000</hi> 
+               <abbr>l.</abbr> And that the ſame was actually paid in by the New Subſcribers.</p>
+            <p>It were to be wiſhed, That a more thorough Enquiry was made into the <hi>Methods</hi> and the <hi>Expence</hi> by which theſe <hi>laſt Charters</hi> were obtained, contrary to the Advice of the Houſe of Commons, in an <hi>Addreſs</hi> made and preſented by the whole Houſe to his Majeſty on <hi>this very Occaſion but the</hi> February <hi>preceeding the ſaid</hi> October, <hi>1693.</hi> For Diſſolving the Eaſt-India Company upon three Years warn<g ref="char:EOLhyphen"/>ing to the ſaid Company, according to the Power reſerved in their Charter. <hi>As to the</hi> laſt Subſcription of 744000 <abbr>l.</abbr> 
+               <hi>it was made up</hi> by 362000 <hi>l.</hi> of the <hi>old Adventurers,</hi> and 382000 <hi>l.</hi> of the <hi>new Subſcribers,</hi> (of which latter Sum, near 120000 <hi>l.</hi> has been ſincc <hi>Sold</hi> out by the New Members) The <hi>Submiſſion</hi> of the old Company to this Regulation was very remarkable: For it was this <hi>Submiſ<g ref="char:EOLhyphen"/>ſion</hi> that brought them in a <hi>new Stock</hi> to trade with, after they had by <hi>unaccountable Dividends,</hi> left themſelves ſo <hi>bare</hi> as to be forced to <hi>borrow</hi> more than 325000 <hi>l.</hi> to carry on the Trade.</p>
+            <p n="4">4. That ſince their laſt Charters no Breach or Forfeiture of their Rights has been Charged upon them.</p>
+            <p>How prudently they may have managed, as to the avoiding any more <hi>Forfeitures,</hi> their Court of Committees beſt know; But how <hi>honeſtly</hi> to their <hi>New Subſcribers</hi> will beſt appear by the Printed Votes of the Houſe of Commons on the 14th. Day of <hi>June</hi> laſt, when the Re<g ref="char:EOLhyphen"/>port was made from the Committee appointed to Inſpect the <hi>Eaſt-India</hi> Company's Books, <hi>That Satiſfaction be given to the late Sub<g ref="char:EOLhyphen"/>ſcribers</hi> to the <hi>Eaſt-India</hi> Company, for all Damages done them, by making Dividends beyond the Real Value of the Company's Stock, at the Time of ſuch Dividend, and alſo by Ordering to be Paid out of the New Subſcription, a Sum of about 325000 <abbr>l.</abbr> Lent by the Members <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Old Company, by way of Increaſe of the Capitol Stock, ſuch Damage to be anſwered out of the Eſtates of the Members of the Old Com<g ref="char:EOLhyphen"/>pany <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> reſpectively, Receiving ſuch Dividend and Payment.</p>
+            <p n="5">5. That ſince the laſt Subſcription, they have loſt twelve great Ships of an Immenſe Value by the Calamities of the War.</p>
+            <p>The Company indeed was concern'd in <hi>twelve Ships</hi> that were loſt by the <hi>War</hi> and other <hi>Caſualties,</hi> but their <hi>real Loſs</hi> was not of ſuch an <hi>immenſe value,</hi> as to exceed 450000 <hi>l.</hi> and even that was retriev'd by the much greater Prices they made by ſale of thoſe Goods which came to Market: Every other Trade hath been attended with the <hi>ſame Calamities,</hi> and in particular the Owners of thoſe Ships, and the private Traders to <hi>India,</hi> have felt <hi>heayy Loſſes</hi> by the War, which with Silence they ſubmit<g ref="char:EOLhyphen"/>ted to without claiming a <hi>Monopoly</hi> of the Trade as a Reward for their Misfortunes.</p>
+            <p n="6">6 That they have been profitable to the Publick by the Payment of <hi>295000</hi> 
+               <abbr>l.</abbr> in Cuſtoms, <hi>85000</hi> 
+               <abbr>l.</abbr> for Taxes, by the Subſcription of <hi>80000</hi> 
+               <abbr>l.</abbr> towards Circulating Exchequer Bills, and by a Supply of <hi>6000</hi> Barrels of Gun-powder upon a very preſſing Occaſion.</p>
+            <p>If they have been <hi>profitable</hi> to the <hi>Publick</hi> by their Cuſtoms, ſo have all <hi>private Traders</hi> been; and much more (it is to be hoped) have both Private Traders and Company been profited by ſuch Returns. The <hi>Taxes</hi> they have paid, are the beſt Proof they have of the value of their Stock. And yet theſe <hi>Taxes</hi> (on this occaſion boaſted of,) came not ſo readily from them, but that their <hi>Charter</hi> by a <hi>Non-Compliance</hi> with a plain Law became <hi>forſcited.</hi> The 80000 <hi>l.</hi> ſubſcribed at <hi>ſeveral times</hi> for circula<g ref="char:EOLhyphen"/>ting <hi>Exchequer Bills,</hi> carried with it its own reward of 10 <hi>per Cent,</hi> which the reſt of their Fellow-Subjects would thankfully have acknowledged owing to his Majeſties Bounty. And if the <hi>Company</hi> did <hi>once ſupply</hi> 6000 Barrels of Gun-powder; <hi>Pri<g ref="char:EOLhyphen"/>vate Traders</hi> during the <hi>whole time</hi> of the War have <hi>furniſhed</hi> his Majeſty with Mony and Stores both at home and abroad.</p>
+            <p n="7">7. That having carried on the Trade during the War, they did hope to have received Returns of Profit in time of Peace to Anſwer ſuch their great Loſſes.</p>
+            <p>The <hi>ſame Hopes,</hi> with equal Juſticc, attended the Reſt of their Fellow Subjects, 'till they were allarm'd by a <hi>Propoſal</hi> of the Com<g ref="char:EOLhyphen"/>pany's, of the 14th Day of <hi>April</hi> laſt, wherein they offer to advance 700000 <hi>l.</hi> (repayable to them with Intereſt) to have the <hi>whole and ſole Trade to India</hi> veſted in them by <hi>Act of Parliament</hi> for Thirty One Years; which gave occaſion to the Honourable Houſe of Commons, to come to thoſe juſt Reſolutions, which they next ſet forth in their Petition, <hi>Viz.</hi>
+            </p>
+            <p n="8">8. That a Fund of <hi>8</hi> 
+               <abbr>l.</abbr> 
+               <hi>per Cent per Annum</hi> ſhould be ſetled with the Advantage of the Trade to <hi>India,</hi> on ſuch as ſhould ad<g ref="char:EOLhyphen"/>vance Two Millions for the Service of the Publick. Whereupon the Company did agree to ſubmit their Stock to a valuation of <hi>50</hi> 
+               <abbr>l.</abbr> 
+               <hi>per Cent.</hi> and to open their Books for new Subſcriptions towards raiſing the ſaid two Millions.</p>
+            <p>It was in <hi>purſuance</hi> of the ſaid Votes, That a <hi>Subſcription</hi> was ſet on foot in <hi>London,</hi> which in few days amounting to more than 1200000 <hi>l.</hi> was preſented to the Houſe of Commons, who thinking it more <hi>agreeable to Juſtice, and advantagious to the Trade,</hi> to leave every Man to make good in <hi>Ready Money</hi> the ſum of his Subſcription towards carrying on the Trade, than to oblige inno<g ref="char:EOLhyphen"/>cent Men to come at any <hi>Valuation</hi> whatſoever into a <hi>Stock</hi> which had ſo lately <hi>over-reached</hi> 700 of the King's Subjects. The Com<g ref="char:EOLhyphen"/>pany then proceeded to propoſe,</p>
+            <p n="9">9. That <hi>200000</hi> 
+               <abbr>l.</abbr> ſhould be Subſcribed by private Adventurers, <hi>to be paid as</hi> the firſt Payment, ſubject to make good the ſub<g ref="char:EOLhyphen"/>ſequent Payments.</p>
+            <p>The like Sum of 200000 <hi>l.</hi> will be advanced and paid down by the <hi>New Subſcribers,</hi> at the <hi>very time</hi> of their Subſcriptions, ſub<g ref="char:EOLhyphen"/>ject by the Bill to the ſame Penalty of <hi>making good</hi> the <hi>ſubſequent Payments.</hi>
+            </p>
+            <p n="10">10. That a Bill (paſt the Houſe of Commons) is now depending before their <hi>Lordſhips,</hi> which tends to the prejudice of the Petiti<g ref="char:EOLhyphen"/>oners Rights, to deprive them of their Propertie in Lands, and their other Eſtates abroad, to the value of 44000 <abbr>l.</abbr> 
+               <hi>per Annum,</hi> and in their Forts and Fortifications which have Coſt them above a Million of Pounds Sterling, and not doubting but to ſatisfie their Lord<g ref="char:EOLhyphen"/>ſhips, That the ſaid Bill will be to the utter Ruin of many Hundred Families; that it will prove Deſtructive to the Trade and Intereſt of <hi>England,</hi> and having divers other matters of great moment to offer againſt it, They therefore pray to be heard by their Coun<g ref="char:EOLhyphen"/>cil <hi>&amp;c.</hi>
+            </p>
+            <p>The Bill will beſt Vindicate it ſelf from the <hi>bold Aſperſions</hi> of the Petitioners; it will there appear; That the <hi>Trade of three Years</hi> (the Limitation under which they accepted their Grant from the Crown) is <hi>Continued to them</hi>; That their <hi>Eſtates</hi> (of whatſo<g ref="char:EOLhyphen"/>ever Value they be, or however acquired) are <hi>preſerved</hi> to them. That even after the <hi>Expiration</hi> of their Three Years, they are not <hi>excluded</hi> from ſuch a part of the Trade, as by their <hi>timely</hi> Subscriptions they ſhall think fit to qualifie themſelves to enjoy: The Bill deſigns the ruin of no Man, unleſs the payment of his <hi>juſt Debts</hi> will be his Ruin; to that piece of juſtice indeed it obliges the <hi>Old Company,</hi> as well as whoever ſhall become a Partaker in the Advantages of the <hi>New Settlement</hi>: But the Regard had to the Compa<g ref="char:EOLhyphen"/>ny by the Houſe of Commons reſted not here, they were at laſt offer'd, (notwithſtanding their diſingenious trifling with the Houſe) the <hi>Benefits</hi> of the Bill, upon the Terms therein mention'd, which ſince they have thought fit not only to neglect but to Contemn, It is, with all poſſible Duty, ſubmitted to the great Wiſdom of their Lordſhips, whether the <hi>preſent Company</hi> are the Men, who (exclu<g ref="char:EOLhyphen"/>sive to the reſt of their Fellow Subjects) may be thought the <hi>beſt Improvers</hi> of the <hi>Eaſt-India</hi> Trade; or whether the reſt of the <hi>Sub<g ref="char:EOLhyphen"/>jects</hi> of England (not excluding even the ſaid Company unleſs they pleaſe) may not make greater Returns of Profit to their Country</p>
+         </div>
+      </body>
+   </text>
+</TEI>
